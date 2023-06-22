@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Archana
-- 👀 I’m interested in Web Designing.
-- 🌱 I’m currently learning Full Stack Development.
+- 👀 I’m interested in Designing Webpages.
+- 🌱 I’m currently learning Mern Stack Development.
 - 💞️ I’m looking to collaborate on Basic Projects.
 - 📫 How to reach me ...
 - LinkedIn:www.linkedin.com/in/archana-5379a9246
